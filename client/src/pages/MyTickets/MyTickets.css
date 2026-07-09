@@ -1,0 +1,20 @@
+.tickets-container {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.ticket-card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+.ticket-card h3 {
+  color: #007bff;
+}
+
+.ticket-card p {
+  margin: 8px 0;
+}
