@@ -1,10 +1,15 @@
+
+
+
+
 {
+
   "name": "ticket-management-system",
   "version": "1.0.0",
   "description": "MERN Ticket Management System",
   "main": "server/index.js",
   "scripts": {
-    "start": "node server/index.js",
+    "start": "node index.js",
     "dev": "nodemon server/index.js",
     "client": "npm start --prefix client",
     "server": "nodemon server/index.js",
